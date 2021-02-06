@@ -1,0 +1,4 @@
+Note:
+
+You need to use minSdkVersion 23 when using firebase in flutter.
+page bloc = untuk mengatur state dari bloc => state ?
